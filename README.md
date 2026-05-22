@@ -1,16 +1,53 @@
-## Hi there 👋
+# Syed Hassan Raza
 
-<!--
-**syedhassanraza1234/syedhassanraza1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems-oriented researcher and engineer working across algorithms, cybersecurity, systems engineering, and data science.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Algorithmic correctness proofs and TCS-style reasoning
+- Cybersecurity labs and detection engineering
+- Cloud security and adversarial systems
+- Data science and anomaly detection
+- Systems programming and infrastructure
+
+---
+
+## Focus Areas
+
+Algorithms • Cybersecurity • Systems Engineering • Data Science
+
+---
+
+## Languages
+
+Python • C • C++ • Go • Rust
+
+---
+
+## Website
+
+https://syedhassanraza1234.github.io
+
+---
+
+## Selected Interests
+
+- Adversarial reasoning
+- Graph theory
+- Distributed systems
+- Formal correctness
+- Detection engineering
+- Network analysis
+- Historical systems analysis
+
+---
+
+## Currently Learning
+
+- Cloud security across AWS, Azure, and GCP
+- Malware analysis and reverse engineering
+- Assembly and low-level systems
+- Advanced graph and dynamic programming techniques
+- Detection engineering and threat modeling
